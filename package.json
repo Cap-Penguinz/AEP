@@ -1,5 +1,6 @@
 {
-  "name": "haxiom",
+  "homepage": "https://cap-penguinz.github.io/AEP/",
+  "name": "aep",
   "private": true,
   "version": "0.0.0",
   "type": "module",

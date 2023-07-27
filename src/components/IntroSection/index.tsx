@@ -18,7 +18,7 @@ export default function IntroSection() {
       }}
     >
       <div className="intro-content">
-        <h1 className="page-title">Haxiom</h1>
+        <h1 className="page-header">Academic Empowerment Project</h1>
         <p className="page-description">
           A tutoring service to help you gain a{" "}
           <span className="special-highlight">passion for learning</span>
